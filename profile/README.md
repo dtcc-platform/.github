@@ -7,6 +7,6 @@ planning, design, and exploration of cities.
 
 | Repository   | `main` | `develop` |
 |--------------|--------|-----------|
-| dtcc-model | ![dtcc-model-main](https://github.com/dtcc-platform/dtcc-model/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-model-develop](https://github.com/dtcc-platform/dtcc-model/actions/workflows/ci.yml/badge.svg?branch=develop) |
-| dtcc-io | ![dtcc-io-main](https://github.com/dtcc-platform/dtcc-io/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-io-develop](https://github.com/dtcc-platform/dtcc-io/actions/workflows/ci.yml/badge.svg?branch=develop) |
-| dtcc-builder | ![dtcc-builder-main](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-builder-develop](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=develop) |
+| [dtcc-model](https://github.com/dtcc-platform/dtcc-model) | ![dtcc-model-main](https://github.com/dtcc-platform/dtcc-model/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-model-develop](https://github.com/dtcc-platform/dtcc-model/actions/workflows/ci.yml/badge.svg?branch=develop) |
+| [dtcc-io](https://github.com/dtcc-platform/dtcc-io) | ![dtcc-io-main](https://github.com/dtcc-platform/dtcc-io/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-io-develop](https://github.com/dtcc-platform/dtcc-io/actions/workflows/ci.yml/badge.svg?branch=develop) |
+| [dtcc-builder](https://github.com/dtcc-platform/dtcc-builder) | ![dtcc-builder-main](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-builder-develop](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=develop) |
