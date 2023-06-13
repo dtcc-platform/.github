@@ -8,7 +8,7 @@ planning, design, and exploration of cities.
 ## Core packages (5)
 
 | Package | `main` | `develop` |
-|--------------|--------|-----------
+|---------|--------|-----------|
 | [dtcc](https://github.com/dtcc-platform/dtcc) | ![dtcc-main](https://github.com/dtcc-platform/dtcc/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-develop](https://github.com/dtcc-platform/dtcc/actions/workflows/ci.yml/badge.svg?branch=develop) |
 | [dtcc-model](https://github.com/dtcc-platform/dtcc-model) | ![dtcc-model-main](https://github.com/dtcc-platform/dtcc-model/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-model-develop](https://github.com/dtcc-platform/dtcc-model/actions/workflows/ci.yml/badge.svg?branch=develop) |
 | [dtcc-io](https://github.com/dtcc-platform/dtcc-io) | ![dtcc-io-main](https://github.com/dtcc-platform/dtcc-io/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-io-develop](https://github.com/dtcc-platform/dtcc-io/actions/workflows/ci.yml/badge.svg?branch=develop) |
@@ -17,6 +17,8 @@ planning, design, and exploration of cities.
 
 ## Auxiliary packages (2)
 
+| Package | `main` | `develop` |
+|---------|--------|-----------|
 | [dtcc-docs](https://github.com/dtcc-platform/dtcc-docs) | ![dtcc-docs-main](https://github.com/dtcc-platform/dtcc-docs/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-docs-develop](https://github.com/dtcc-platform/dtcc-docs/actions/workflows/ci.yml/badge.svg?branch=develop) |
 | [dtcc-template](https://github.com/dtcc-platform/dtcc-template) | ![dtcc-template-main](https://github.com/dtcc-platform/dtcc-template/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-template-develop](https://github.com/dtcc-platform/dtcc-template/actions/workflows/ci.yml/badge.svg?branch=develop) |
 
