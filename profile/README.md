@@ -5,7 +5,7 @@ hosted by Chalmers University of Technology. The aim is to develop an
 open modelling, simulation and visualisation platform for interactive
 planning, design, and exploration of cities.
 
-## Core packages (6)
+## Core packages (8)
 
 | Package | `main` | `develop` |
 |---------|--------|-----------|
