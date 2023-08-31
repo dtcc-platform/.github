@@ -17,6 +17,7 @@ planning, design, and exploration of cities.
 | [dtcc-wrangler](https://github.com/dtcc-platform/dtcc-wrangler) | ![dtcc-wrangler-main](https://github.com/dtcc-platform/dtcc-wrangler/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-wrangler-develop](https://github.com/dtcc-platform/dtcc-wrangler/actions/workflows/ci.yml/badge.svg?branch=develop) |
 | [dtcc-builder](https://github.com/dtcc-platform/dtcc-builder) | ![dtcc-builder-main](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-builder-develop](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=develop) |
 | [dtcc-viewer](https://github.com/dtcc-platform/dtcc-viewer) | ![dtcc-viewer-main](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-viewer-develop](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=develop) |
+| [dtcc-infrastructure](https://github.com/dtcc-platform/dtcc-infrastructure) | ![dtcc-infrastructure-main](https://github.com/dtcc-platform/dtcc-infrastructure/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-infrastructure-develop](https://github.com/dtcc-platform/dtcc-infrastructure/actions/workflows/ci.yml/badge.svg?branch=develop) |
 
 ## Auxiliary packages (2)
 
