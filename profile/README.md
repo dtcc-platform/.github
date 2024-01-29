@@ -32,6 +32,23 @@ planning, design, and exploration of cities. For more information, please visit 
     <td>test</td>
     <td>TestPyPI</td>
   </tr>
+   <tr>
+    <td>New Cell 1</td>
+    <td>New Cell 2</td>
+    <td>New Cell 3</td>
+    <td>New Cell 4</td>
+    <td>New Cell 5</td>
+    <td>New Cell 6</td>
+  </tr>
+  <!-- New Row 2 -->
+  <tr>
+    <td>New Cell 7</td>
+    <td>New Cell 8</td>
+    <td>New Cell 9</td>
+    <td>New Cell 10</td>
+    <td>New Cell 11</td>
+    <td>New Cell 12</td>
+  </tr>
 </table>
 
 ## Auxiliary packages (2)
