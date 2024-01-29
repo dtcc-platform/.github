@@ -21,7 +21,7 @@ planning, design, and exploration of cities. For more information, please visit 
 
 <table>
   <tr>
-    <td>New Col</td> <!-- New cell in header row -->
+    <td></td> <!-- New cell in header row -->
     <td colspan="3" align="center">main</td>
     <td colspan="3" align="center">develop</td>
   </tr>
@@ -39,6 +39,8 @@ planning, design, and exploration of cities. For more information, please visit 
   <tr>
     <td>New Cell</td> <!-- New cell in additional row -->
     <td>...</td> <!-- Other cells for this row -->
+    <td>???</td>
+    <td>???</td>
     <!-- Continue adding cells to match the total number of columns -->
   </tr>
 </table>
