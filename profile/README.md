@@ -47,6 +47,23 @@ planning, design, and exploration of cities. For more information, please visit 
        | amounts | json object containing all transaction amounts <br /> <br /> <table> <tr> <td> Subfield </td> <td> Description </td> <td> Optional </td> <td> Default </td> </tr> <tr> <td> tip </td>  <td> transaction tip amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> total </td> <td> equal to Base  Amount + Base amount for  Reduced State Tax + City Tax + State Tax + Reduced State Tax + Tip or Cash back </td> <td> no </td> <td> NA </td> </tr> <tr> <td> cashback </td> <td> cash back amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> state_tax </td> <td> State tax amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> city_tax </td> <td> City tax amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> reduced_tax </td> <td> Reduced state tax amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> base_reduced_tax </td> <td> Reduced state tax base amount </td> <td> yes </td> <td> NA </td> </tr> </table> | no | NA |
 
 
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+  </tr>
+  <tr>
+    <td colspan="2">Cell spanning two columns</td>
+    <td>Cell 3</td>
+  </tr>
+  <tr>
+    <td>Cell 1</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td>
+  </tr>
+</table>
+
 ## Auxiliary packages (2)
 
 | Package | `main` | `develop` |
