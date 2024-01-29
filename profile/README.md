@@ -25,12 +25,12 @@ planning, design, and exploration of cities. For more information, please visit 
     <td colspan="3", td align="center">develop</td>
   </tr>
   <tr>
-    <td>Cell 1</td>
-    <td>Cell 2</td>
-    <td>Cell 3</td>
-    <td>Cell 1</td>
-    <td>Cell 2</td>
-    <td>Cell 3</td>
+    <td>build</td>
+    <td>test</td>
+    <td>PyPI</td>
+    <td>build</td>
+    <td>test</td>
+    <td>TestPyPI</td>
   </tr>
 </table>
 
