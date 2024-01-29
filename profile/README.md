@@ -19,40 +19,15 @@ planning, design, and exploration of cities. For more information, please visit 
 | [dtcc-builder](https://github.com/dtcc-platform/dtcc-builder) | ![dtcc-builder-main](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-builder-develop](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=develop) |
 | [dtcc-viewer](https://github.com/dtcc-platform/dtcc-viewer) | ![dtcc-viewer-main](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-viewer-develop](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=develop) |
 
-| main      | develop  |
-|------------------------------------ |--------------------|
-| Column 1  Column 2 and 3 and 4      | Column 5  Column 6 |
-|------------------------------------ |--------------------|
-|   Row 1  |    Row 1  | Row 1        |   Row 1  |   Row 1  |   Row 1  |
-|   Row 2  |    Row 2  | Row 2        |   Row 2  |   Row 2  |   Row 2  |
-|   Row 3  |    Row 3  | Row 3        |   Row 3  |   Row 3  |   Row 3  |
-|   Row 4  |    Row 4  | Row 4        |   Row 4  |   Row 4  |   Row 4  |
-|   Row 5  |    Row 5  | Row 5        |   Row 5  |   Row 5  |   Row 5  |
-|   Row 6  |    Row 6  | Row 6        |   Row 6  |   Row 6  |   Row 6  |
-
-
-| Column 1 | Column 2 and 3 and 4      | Column 5 | Column 6 |
-|----------|-------------------------- |----------|----------|
-|   Row 1  |    Row 1       |   Row 1  |   Row 1  |   Row 1  |
-|   Row 2  |    Row 2       |   Row 2  |   Row 2  |   Row 2  |
-|   Row 3  |    Row 3       |   Row 3  |   Row 3  |   Row 3  |
-|   Row 4  |    Row 4       |   Row 4  |   Row 4  |   Row 4  |
-|   Row 5  |    Row 5       |   Row 5  |   Row 5  |   Row 5  |
-|   Row 6  |    Row 6       |   Row 6  |   Row 6  |   Row 6  |
-
-
-| Field  | Description |  Optional | Default |
-       | ------ | ----------- | --------- | ------- |
-       | manual_entry_indicator | no: is not is allow manual entry <br /> yes: is manual entry enabled| yes | no |
-       | amounts | json object containing all transaction amounts <br /> <br /> <table> <tr> <td> Subfield </td> <td> Description </td> <td> Optional </td> <td> Default </td> </tr> <tr> <td> tip </td>  <td> transaction tip amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> total </td> <td> equal to Base  Amount + Base amount for  Reduced State Tax + City Tax + State Tax + Reduced State Tax + Tip or Cash back </td> <td> no </td> <td> NA </td> </tr> <tr> <td> cashback </td> <td> cash back amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> state_tax </td> <td> State tax amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> city_tax </td> <td> City tax amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> reduced_tax </td> <td> Reduced state tax amount </td> <td> yes </td> <td> NA </td> </tr> <tr> <td> base_reduced_tax </td> <td> Reduced state tax base amount </td> <td> yes </td> <td> NA </td> </tr> </table> | no | NA |
-
-
 <table>
    <tr>
     <td colspan="3">main</td>
     <td colspan="3">develop</td>
   </tr>
   <tr>
+    <td>Cell 1</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td>
     <td>Cell 1</td>
     <td>Cell 2</td>
     <td>Cell 3</td>
