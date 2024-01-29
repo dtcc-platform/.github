@@ -54,7 +54,7 @@ planning, design, and exploration of cities. For more information, please visit 
     <th>Header 3</th>
   </tr>
   <tr>
-    <td colspan="2">Cell spanning two columns</td>
+    <td colspan="3">Cell spanning two columns</td>
     <td>Cell 3</td>
   </tr>
   <tr>
