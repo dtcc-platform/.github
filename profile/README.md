@@ -37,8 +37,11 @@ planning, design, and exploration of cities. For more information, please visit 
   <!-- Additional rows should also start with a new cell for the new column -->
   <!-- Example of an additional row -->
   <tr>
-    <td>New Cell</td> <!-- New cell in additional row -->
+    <td>[dtcc](https://github.com/dtcc-platform/dtcc)</td> <!-- New cell in additional row -->
     <td>...</td> <!-- Other cells for this row -->
+    <td>???</td>
+    <td>???</td>
+    <td>???</td>
     <td>???</td>
     <td>???</td>
     <!-- Continue adding cells to match the total number of columns -->
