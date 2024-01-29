@@ -22,8 +22,8 @@ planning, design, and exploration of cities. For more information, please visit 
 <table>
   <tr>
     <td></td> <!-- New cell in header row -->
-    <td colspan="3" align="center"><b>main></b></td>
-    <td colspan="3" align="center">develop</td>
+    <td colspan="3" align="center"><b>main</b></td>
+    <td colspan="3" align="center"><b>develop</b></td>
   </tr>
   <tr>
     <td>Repository</td> <!-- New cell in first data row -->
