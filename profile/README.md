@@ -20,11 +20,13 @@ planning, design, and exploration of cities. For more information, please visit 
 | [dtcc-viewer](https://github.com/dtcc-platform/dtcc-viewer) | ![dtcc-viewer-main](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-viewer-develop](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=develop) |
 
 <table>
-   <tr>
-    <td colspan="3", td align="center">main</td>
-    <td colspan="3", td align="center">develop</td>
+  <tr>
+    <td>New Col</td> <!-- New cell in header row -->
+    <td colspan="3" align="center">main</td>
+    <td colspan="3" align="center">develop</td>
   </tr>
   <tr>
+    <td>New Cell</td> <!-- New cell in first data row -->
     <td>build</td>
     <td>test</td>
     <td>PyPI</td>
@@ -32,24 +34,15 @@ planning, design, and exploration of cities. For more information, please visit 
     <td>test</td>
     <td>TestPyPI</td>
   </tr>
-   <tr>
-    <td>New Cell 1</td>
-    <td>New Cell 2</td>
-    <td>New Cell 3</td>
-    <td>New Cell 4</td>
-    <td>New Cell 5</td>
-    <td>New Cell 6</td>
-  </tr>
-  <!-- New Row 2 -->
+  <!-- Additional rows should also start with a new cell for the new column -->
+  <!-- Example of an additional row -->
   <tr>
-    <td>New Cell 7</td>
-    <td>New Cell 8</td>
-    <td>New Cell 9</td>
-    <td>New Cell 10</td>
-    <td>New Cell 11</td>
-    <td>New Cell 12</td>
+    <td>New Cell</td> <!-- New cell in additional row -->
+    <td>...</td> <!-- Other cells for this row -->
+    <!-- Continue adding cells to match the total number of columns -->
   </tr>
 </table>
+
 
 ## Auxiliary packages (2)
 
