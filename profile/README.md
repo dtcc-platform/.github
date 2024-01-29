@@ -37,8 +37,8 @@ planning, design, and exploration of cities. For more information, please visit 
   <!-- Additional rows should also start with a new cell for the new column -->
   <!-- Example of an additional row -->
   <tr>
-    <td><a href="https://www.example.com">Link Text</a></td> <!-- New cell in additional row -->
-    <td>  <img src="https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=main" alt="Icon Description" width="24" height="24"></td> <!-- Other cells for this row -->
+    <td><a href="https://github.com/dtcc-platform/dtcc">dtcc</a></td> <!-- New cell in additional row -->
+    <td>  <img src="https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=main" alt="Icon Description" width="120" height="24"></td> <!-- Other cells for this row -->
     <td>???</td>
     <td>???</td>
     <td>???</td>
