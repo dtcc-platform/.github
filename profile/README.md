@@ -48,11 +48,7 @@ planning, design, and exploration of cities. For more information, please visit 
 
 
 <table>
-  <tr>
-    <th>main</th>
-    <th>develop</th> 
-  </tr>
-  <tr>
+   <tr>
     <td colspan="3">Cell spanning two columns</td>
     <td>Cell 3</td>
   </tr>
