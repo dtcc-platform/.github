@@ -19,16 +19,16 @@ planning, design, and exploration of cities. For more information, please visit 
 | [dtcc-builder](https://github.com/dtcc-platform/dtcc-builder) | ![dtcc-builder-main](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-builder-develop](https://github.com/dtcc-platform/dtcc-builder/actions/workflows/ci.yml/badge.svg?branch=develop) |
 | [dtcc-viewer](https://github.com/dtcc-platform/dtcc-viewer) | ![dtcc-viewer-main](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-viewer-develop](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=develop) |
 
-| Column 1 | Column 2 and 3 and 4      | Column 5 | Column 6 |
-|----------|-------------------------- |----------|----------|
-| Column 1 | Column 2 and 3 and 4      | Column 5 | Column 6 |
-|----------|-------------------------- |----------|----------|
-|   Row 1  |    Row 1       |   Row 1  |   Row 1  |   Row 1  |
-|   Row 2  |    Row 2       |   Row 2  |   Row 2  |   Row 2  |
-|   Row 3  |    Row 3       |   Row 3  |   Row 3  |   Row 3  |
-|   Row 4  |    Row 4       |   Row 4  |   Row 4  |   Row 4  |
-|   Row 5  |    Row 5       |   Row 5  |   Row 5  |   Row 5  |
-|   Row 6  |    Row 6       |   Row 6  |   Row 6  |   Row 6  |
+| Column 1 | main      | develop  |
+|----------|-------------------------- |--------------------|
+| Column 1 | Column 2 and 3 and 4      | Column 5  Column 6 |
+|----------|-------------------------- |--------------------|
+|   Row 1  |    Row 1  | Row 1         |   Row 1  |   Row 1  |   Row 1  |
+|   Row 2  |    Row 2  | Row 2         |   Row 2  |   Row 2  |   Row 2  |
+|   Row 3  |    Row 3  | Row 3         |   Row 3  |   Row 3  |   Row 3  |
+|   Row 4  |    Row 4  | Row 4         |   Row 4  |   Row 4  |   Row 4  |
+|   Row 5  |    Row 5  | Row 5         |   Row 5  |   Row 5  |   Row 5  |
+|   Row 6  |    Row 6  | Row 6         |   Row 6  |   Row 6  |   Row 6  |
 
 
 
