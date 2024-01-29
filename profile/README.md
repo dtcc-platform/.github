@@ -26,7 +26,7 @@ planning, design, and exploration of cities. For more information, please visit 
     <td colspan="3" align="center">develop</td>
   </tr>
   <tr>
-    <td></td> <!-- New cell in first data row -->
+    <td>Repository</td> <!-- New cell in first data row -->
     <td>build</td>
     <td>test</td>
     <td>PyPI</td>
