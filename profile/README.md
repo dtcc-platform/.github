@@ -22,7 +22,7 @@ planning, design, and exploration of cities. For more information, please visit 
 <table>
   <tr>
     <td></td> <!-- New cell in header row -->
-    <td colspan="3" align="center">main</td>
+    <td colspan="3" align="center"><b>main></b></td>
     <td colspan="3" align="center">develop</td>
   </tr>
   <tr>
