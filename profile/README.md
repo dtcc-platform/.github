@@ -49,9 +49,8 @@ planning, design, and exploration of cities. For more information, please visit 
 
 <table>
   <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-    <th>Header 3</th>
+    <th>main</th>
+    <th>develop</th> 
   </tr>
   <tr>
     <td colspan="3">Cell spanning two columns</td>
