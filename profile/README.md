@@ -23,7 +23,7 @@ planning, design, and exploration of cities. For more information, please visit 
 
 | Package | `main` | `develop` |
 |---------|--------|-----------|
-| [dtcc-infrastructure](https://github.com/dtcc-platform/dtcc-infrastructure) | ![dtcc-infrastructure-main](https://github.com/dtcc-platform/dtcc-infrastructure/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-infrastructure-develop](https://github.com/dtcc-platform/dtcc-infrastructure/actions/workflows/ci.yml/badge.svg?branch=develop) |
+| [dtcc-infrastructure](https://github.com/dtcc-platform/dtcc-infrastructure) | | |
 | [dtcc-template](https://github.com/dtcc-platform/dtcc-template) | ![dtcc-template-main](https://github.com/dtcc-platform/dtcc-template/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-template-develop](https://github.com/dtcc-platform/dtcc-template/actions/workflows/ci.yml/badge.svg?branch=develop) |
 
 ## Experimental packages (4)
