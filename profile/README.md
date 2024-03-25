@@ -39,3 +39,11 @@ planning, design, and exploration of cities. For more information, please visit 
 | [dtcc-web-viewer](https://github.com/dtcc-platform/dtcc-web-viewer) | | |
 | [dtcc-docs](https://github.com/dtcc-platform/dtcc-docs) | ![dtcc-docs-main](https://github.com/dtcc-platform/dtcc-docs/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-docs-develop](https://github.com/dtcc-platform/dtcc-docs/actions/workflows/ci.yml/badge.svg?branch=develop) |
 
+## Archived packages (3)
+| Repository   | `main` | `develop` |
+|--------------|--------|-----------|
+| [dtcc-core](https://github.com/dtcc-platform/dtcc-core) | | |
+| [dtcc-modules](https://github.com/dtcc-platform/dtcc-modules) | | |
+| [dtcc-wrangler](https://github.com/dtcc-platform/dtcc-wrangler) | | |
+
+
