@@ -6,7 +6,7 @@ open modelling, simulation and visualisation platform for interactive
 planning, design, and exploration of cities. For more information, please visit [DTCC Platform documentation
 ](https://platform.dtcc.chalmers.se/).
 
-## Main packages (7)
+## Main packages (4)
 
 | Package | `main` | `develop` |
 |---------|--------|-----------|
