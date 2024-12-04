@@ -13,7 +13,7 @@ planning, design, and exploration of cities. For more information, please visit 
 | [dtcc](https://github.com/dtcc-platform/dtcc) | ![dtcc-main](https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=main) |  |
 | [dtcc-core](https://github.com/dtcc-platform/dtcc-core/) | ![dtcc-core-main](https://github.com/dtcc-core/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=main) | ![dtcc-core-develop](https://github.com/dtcc-core/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop) |
 | [dtcc-data](https://github.com/dtcc-platform/dtcc-data) | ![dtcc-io-main](https://github.com/dtcc-platform/dtcc-io/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-io-develop](https://github.com/dtcc-platform/dtcc-io/actions/workflows/ci.yml/badge.svg?branch=develop) |
-| [dtcc-viewer](https://github.com/dtcc-platform/dtcc-viewer) | ![dtcc-viewer-main](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-viewer-develop](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci.yml/badge.svg?branch=develop) |
+| [dtcc-viewer](https://github.com/dtcc-platform/dtcc-viewer-2024) | ![dtcc-viewer-2024-main](https://github.com/dtcc-platform/dtcc-viewer-2024/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-viewer-2024-develop](https://github.com/dtcc-platform/dtcc-viewer-2024/actions/workflows/ci.yml/badge.svg?branch=develop) |
 
 ## Experimental packages (4)
 
