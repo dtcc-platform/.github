@@ -20,6 +20,7 @@ planning, design, and exploration of cities. For more information, please visit 
 | Repository   | `main` | `develop` |
 |--------------|--------|-----------|
 | [dtcc-solar](https://github.com/dtcc-platform/dtcc-solar) | ![dtcc-solar-main](https://github.com/dtcc-platform/dtcc-solar/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-solar-develop](https://github.com/dtcc-platform/dtcc-solar/actions/workflows/ci.yml/badge.svg?branch=develop) |
+| [dtcc-tracker](https://github.com/dtcc-platform/dtcc-tracker) | | |
 | [dtcc-noise](https://github.com/dtcc-platform/dtcc-noise) |  |  |
 | [dtcc-ue-plugin](https://github.com/dtcc-platform/dtcc-ue-plugin) | | |
 
