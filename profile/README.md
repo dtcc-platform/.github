@@ -23,9 +23,4 @@ planning, design, and exploration of cities. For more information, please visit 
 | [dtcc-noise](https://github.com/dtcc-platform/dtcc-noise) |  |  |
 | [dtcc-ue-plugin](https://github.com/dtcc-platform/dtcc-ue-plugin) | | |
 
-## Auxiliary packages (2)
 
-| Package | `main` | `develop` |
-|---------|--------|-----------|
-| [dtcc-infrastructure](https://github.com/dtcc-platform/dtcc-infrastructure) | | |
-| [dtcc-template](https://github.com/dtcc-platform/dtcc-template) | ![dtcc-template-main](https://github.com/dtcc-platform/dtcc-template/actions/workflows/ci.yml/badge.svg?branch=main) | ![dtcc-template-develop](https://github.com/dtcc-platform/dtcc-template/actions/workflows/ci.yml/badge.svg?branch=develop) |
