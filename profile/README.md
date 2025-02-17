@@ -27,9 +27,6 @@ planning, design, and exploration of cities. For more information, please visit 
 
 ## Testing
 
-| Package | `main` | `develop` |
-|---------|--------|-----------|
-| [dtcc](https://github.com/dtcc-platform/dtcc) | [![dtcc-main][dtcc-main-badge]] | [![dtcc-develop][dtcc-develop-badge]] |
+[![dtcc-main](https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc/actions?query=branch%3Amain)
 
-[dtcc-main-badge]: https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=main "https://github.com/dtcc-platform/dtcc/actions?query=branch:main"
-[dtcc-develop-badge]: https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop "https://github.com/dtcc-platform/dtcc/actions?query=branch:develop"
+[![dtcc-develop](https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc/actions?query=branch%3Adevelop)
