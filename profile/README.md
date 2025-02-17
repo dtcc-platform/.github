@@ -34,4 +34,5 @@ planning, design, and exploration of cities. For more information, please visit 
 
 https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml?query=branch%3Adevelop
 
-[![dtcc-develop](https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc/actions?query=branch%3Adevelop)
+[![dtcc-develop](https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc/actions/workflows/ci-build-tests.yml?query=branch%3Adevelop)
+
