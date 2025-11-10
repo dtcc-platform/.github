@@ -15,11 +15,24 @@ planning, design, and exploration of cities. For more information, please visit 
 | [dtcc-data](https://github.com/dtcc-platform/dtcc-data) | [![dtcc-data-main-build-tests](https://github.com/dtcc-platform/dtcc-data/actions/workflows/ci-build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-data/actions/workflows/ci-build-tests.yml?query=branch%3Amain) | [![dtcc-data-develop-build-tests](https://github.com/dtcc-platform/dtcc-data/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-data/actions/workflows/ci-build-tests.yml?query=branch%3Adevelop) |
 | [dtcc-viewer](https://github.com/dtcc-platform/dtcc-viewer) | [![dtcc-viewer-main-build-tests](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci-build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci-build-tests.yml?query=branch%3Amain) | [![dtcc-viewer-develop-build-tests](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci-build-tests.yml?query=branch%3Adevelop) |
 
-## Experimental packages (4)
+## Supporting packages (2)
+
+| Repository   | `main` | `develop` |
+|--------------|--------|-----------|
+| [dtcc-pyspade-native](https://github.com/dtcc-platform/dtcc-pyspade-native) | [![build-tests](https://github.com/dtcc-platform/dtcc-pyspade-native/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-pyspade-native/actions/workflows/build-tests.yml?query=branch%3Amain) | [![build-tests](https://github.com/dtcc-platform/dtcc-pyspade-native/actions/workflows/build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-pyspade-native/actions/workflows/build-tests.yml?query=branch%3Adevelop) |
+| [dtcc-tetgen-wrapper](https://github.com/dtcc-platform/dtcc-tetgen-wrapper) | [![build-tests](https://github.com/dtcc-platform/dtcc-tetgen-wrapper/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-tetgen-wrapper/actions/workflows/build-tests.yml?query=branch%3Amain) | [![build-tests](https://github.com/dtcc-platform/dtcc-tetgen-wrapper/actions/workflows/build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-tetgen-wrapper/actions/workflows/build-tests.yml?query=branch%3Adevelop) |
+
+## Infrastructure packages (2)
+
+| Repository   | `main` | `develop` |
+|--------------|--------|-----------|
+| [dtcc-web](https://github.com/dtcc-platform/dtcc-web) | [![build-tests](https://github.com/dtcc-platform/dtcc-web/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-web/actions/workflows/build-tests.yml?query=branch%3Amain) | [![build-tests](https://github.com/dtcc-platform/dtcc-web/actions/workflows/build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-web/actions/workflows/build-tests.yml?query=branch%3Adevelop) |
+| [dtcc-tracker](https://github.com/dtcc-platform/dtcc-tracker) | [![build-tests](https://github.com/dtcc-platform/dtcc-tracker/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-tracker/actions/workflows/build-tests.yml?query=branch%3Amain) | [![build-tests](https://github.com/dtcc-platform/dtcc-tracker/actions/workflows/build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-tracker/actions/workflows/build-tests.yml?query=branch%3Adevelop) |
+
+## Experimental packages (3)
 
 | Repository   | `main` | `develop` |
 |--------------|--------|-----------|
 | [dtcc-solar](https://github.com/dtcc-platform/dtcc-solar) | [![dtcc-solar-main-build-tests](https://github.com/dtcc-platform/dtcc-solar/actions/workflows/ci-build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-solar/actions/workflows/ci-build-tests.yml?query=branch%3Amain) | [![dtcc-solar-develop-build-tests](https://github.com/dtcc-platform/dtcc-solar/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-solar/actions/workflows/ci-build-tests.yml?query=branch%3Adevelop) |
-| [dtcc-tracker](https://github.com/dtcc-platform/dtcc-tracker) | | |
 | [dtcc-noise](https://github.com/dtcc-platform/dtcc-noise) |  |  |
 | [dtcc-ue-plugin](https://github.com/dtcc-platform/dtcc-ue-plugin) | | |
