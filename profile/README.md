@@ -24,7 +24,7 @@ planning, design, and exploration of cities. For more information, please visit 
 
 ## Infrastructure packages (2)
 
-| Repository   | `main` | `develop` |
+| Repository   | `build` | `deploy` |
 |--------------|--------|-----------|
 | [dtcc-web](https://github.com/dtcc-platform/dtcc-web) | [![build-tests](https://github.com/dtcc-platform/dtcc-web/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-web/actions/workflows/build-tests.yml?query=branch%3Amain) | [![build-tests](https://github.com/dtcc-platform/dtcc-web/actions/workflows/build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-web/actions/workflows/build-tests.yml?query=branch%3Adevelop) |
 | [dtcc-tracker](https://github.com/dtcc-platform/dtcc-tracker) | [![build-tests](https://github.com/dtcc-platform/dtcc-tracker/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-tracker/actions/workflows/build-tests.yml?query=branch%3Amain) | [![build-tests](https://github.com/dtcc-platform/dtcc-tracker/actions/workflows/build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-tracker/actions/workflows/build-tests.yml?query=branch%3Adevelop) |
