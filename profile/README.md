@@ -6,11 +6,12 @@ open modelling, simulation and visualisation platform for interactive
 planning, design, and exploration of cities. For more information, please visit [DTCC Platform documentation
 ](https://platform.dtcc.chalmers.se/).
 
-## Main packages (2)
+## Main packages (3)
 
 | Package | `main` | `develop` |
 |---------|--------|-----------|
 | [dtcc-core](https://github.com/dtcc-platform/dtcc-core) | [![dtcc-core-main-build-tests](https://github.com/dtcc-platform/dtcc-core/actions/workflows/ci-build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-core/actions/workflows/ci-build-tests.yml?query=branch%3Amain) | [![dtcc-core-develop-build-tests](https://github.com/dtcc-platform/dtcc-core/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-core/actions/workflows/ci-build-tests.yml?query=branch%3Adevelop) |
+| [dtcc-sim](https://github.com/dtcc-platform/dtcc-sim) | [![dtcc-sim-main-build-tests](https://github.com/dtcc-platform/dtcc-sim/actions/workflows/ci-build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-sim/actions/workflows/ci-build-tests.yml?query=branch%3Amain) | [![dtcc-sim-develop-build-tests](https://github.com/dtcc-platform/dtcc-sim/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-sim/actions/workflows/ci-build-tests.yml?query=branch%3Adevelop) |
 | [dtcc-viewer](https://github.com/dtcc-platform/dtcc-viewer) | [![dtcc-viewer-main-build-tests](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci-build-tests.yml/badge.svg?branch=main)](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci-build-tests.yml?query=branch%3Amain) | [![dtcc-viewer-develop-build-tests](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci-build-tests.yml/badge.svg?branch=develop)](https://github.com/dtcc-platform/dtcc-viewer/actions/workflows/ci-build-tests.yml?query=branch%3Adevelop) |
 
 ## Supporting packages (1)
