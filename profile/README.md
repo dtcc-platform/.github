@@ -3,8 +3,7 @@ digital twins for cities. The platform is developed and maintained by
 the [Digital Twin Cities Centre](https://dtcc.chalmers.se/) (DTCC)
 hosted by Chalmers University of Technology. The aim is to develop an
 open modelling, simulation and visualisation platform for interactive
-planning, design, and exploration of cities. For more information, please visit [DTCC Platform documentation
-](https://platform.dtcc.chalmers.se/).
+planning, design, and exploration of cities.
 
 ## Main packages (3)
 
